@@ -1,0 +1,7 @@
+site_name: "Node-app-github-actions Docs"
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
